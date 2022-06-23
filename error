@@ -1,1 +1,2 @@
 1. camera를 initialize하는 경우 void initState()에 async를 추가하면 안된다.
+스크린샷 2022-06-24 오전 1.38.11.png
