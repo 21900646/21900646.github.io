@@ -1,2 +1,8 @@
 > multiprovider 구현을 위해 dart:isolate을 사용
 구현은 되었으나 isolate안에 tflite를 넣자 문제 발생. 
+
+6/30일 사진 넣기"
+해당 에러는 isolate 내부에서 다른 패키지를 사용하지 못하나다는 에러.
+
+-> flutter_isolate 사용.
+다른 플러그인들도 사용 가능.
