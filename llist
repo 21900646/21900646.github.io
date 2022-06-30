@@ -4,6 +4,10 @@
 
 6/30일 사진 넣기"
 해당 에러는 isolate 내부에서 다른 패키지를 사용하지 못하나다는 에러.
+https://github.com/flutter/flutter/issues/13937
+
 
 -> flutter_isolate 사용.
 다른 플러그인들도 사용 가능.
+
+https://github.com/flutter/flutter/issues/13937
